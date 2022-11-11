@@ -2,10 +2,7 @@
 
 Este es un juego simple donde tu personaje debe moverse y evadir a sus enemigos por el mayor tiempo posible
 
-Esta es una versión finalizada del juego propuesto en 
-["Tu primer videojuego 2D"](https://docs.godotengine.org/es/stable/getting_started/first_2d_game/index.html)
-
-Siguiendo este tutorial podrás recrear el mismo juego
+Esta es una versión modificada del juego propuesto en el tutorial ["Tu primer videojuego 2D"](https://docs.godotengine.org/es/stable/getting_started/first_2d_game/index.html)
 
 ## Screenshots
 
