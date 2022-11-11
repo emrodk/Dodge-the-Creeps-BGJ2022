@@ -19,13 +19,12 @@ Existen dos formas de descargar Godot:
 
 ### Descargar Proyecto
 Si nunca usaste git la manera más fácil será descargar el proyecto de la siguiente manera:
-![Descargar repo](screenshots/descargar proyecto.png)
+![Descargar repo]("screenshots/descargar proyecto.png")
+
+### Abrir proyecto
+Una vez descargado el proyecto solo tiene que abrir Godot e importarlo:
+![Steam Godot](screenshots/importar_proyecto.png)
  
-
-
-#### Instalar Godot desde steam
-!
-
 ## Copying
 
 `art/House In a Forest Loop.ogg` Copyright &copy; 2012 [HorrorPen](https://opengameart.org/users/horrorpen), [CC-BY 3.0: Attribution](http://creativecommons.org/licenses/by/3.0/). Source: https://opengameart.org/content/loop-house-in-a-forest
